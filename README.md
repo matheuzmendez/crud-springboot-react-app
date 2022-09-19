@@ -10,7 +10,7 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK-11.0.11+9 (build 11.0.11+9, mixed mode)
 ```
 - Springboot
 - React
-- MySQL
+- MySQL Workbench
 - Postman
 
 ### Desafio
